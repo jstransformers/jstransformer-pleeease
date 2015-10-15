@@ -25,6 +25,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "pleeease": "^3.4.0"
+    "pleeease": "^4.0.1"
   }
 }
