@@ -1,1 +1,4 @@
-a{opacity:.5;filter:alpha(opacity=50)}
+a {
+  opacity: .5;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"
+}
