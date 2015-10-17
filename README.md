@@ -11,6 +11,14 @@
 
     npm install jstransformer-pleeease
 
+## API
+
+```js
+var foo = require('jstransformer')(require('jstransformer-pleeease'))
+
+// TODO: Add API Documentation
+```
+
 ## License
 
 MIT

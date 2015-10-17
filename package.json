@@ -1,7 +1,11 @@
 {
   "name": "jstransformer-pleeease",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Pleeease support for JSTransformers.",
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "pleeease": "^4.0.1"
+  },
   "keywords": [
     "jstransformer"
   ],
@@ -12,8 +16,11 @@
     "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "test-jstransformer",
-    "coverage": "test-jstransformer coverage"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
@@ -23,9 +30,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "pleeease": "^4.0.1"
-  }
+  "license": "MIT"
 }
