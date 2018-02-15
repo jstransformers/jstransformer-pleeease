@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var pleeease = require('jstransformer')(require('jstransformer-pleeease'));
+var pleeease = require('jstransformer')(require('jstransformer-pleeease'))
 
 // TODO: Add API Documentation
 ```
