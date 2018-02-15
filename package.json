@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Pleeease support for JSTransformers.",
   "dependencies": {
-    "extend-shallow": "^2.0.1",
+    "extend-shallow": "^3.0.2",
     "pleeease": "^4.0.1"
   },
   "keywords": [
