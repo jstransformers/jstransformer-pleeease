@@ -1,7 +1,7 @@
 'use strict'
 
-var Pleeease = require('pleeease')
-var extend = require('extend-shallow')
+const Pleeease = require('pleeease')
+const extend = require('extend-shallow')
 
 exports.name = 'pleeease'
 exports.inputFormats = ['pcss', 'pleeease']
