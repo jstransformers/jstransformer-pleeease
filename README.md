@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-pleeease/master.svg)](https://travis-ci.org/jstransformers/jstransformer-pleeease)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-pleeease/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-pleeease)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-pleeease/master.svg)](http://david-dm.org/jstransformers/jstransformer-pleeease)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-pleeease.svg)](https://www.npmjs.org/package/jstransformer-pleeease)
 
 ## Installation
